@@ -9,7 +9,7 @@ You just guide it by telling whether the guess is *higher* or *lower* until it f
 
 | Start Screen | Guessing Screen | Game Over |
 |---------------|-----------------|------------|
-| ![Start Screen](./assets/screenshots/start.png) | ![Guess Screen](./assets/screenshots/guess.png) | ![Game Over](./assets/screenshots/gameover.png) |
+| ![Start Screen](./assets/screenshots/screenshot1.png) | ![Guess Screen](./assets/screenshots/screenshot2.png) | ![Game Over](./assets/screenshots/screenshot3.png) |
 
 ---
 
